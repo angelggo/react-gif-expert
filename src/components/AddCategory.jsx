@@ -29,6 +29,8 @@ export const AddCategory = ({onNewCategory}) => {
             value= {inputValue}
             onChange={ onInputChange }
         />
+
+        
     </form>
   )
 }
